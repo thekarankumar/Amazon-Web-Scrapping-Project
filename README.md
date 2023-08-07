@@ -14,3 +14,5 @@ And with each Product URL received in the above case, also scrapped the details:
 • ASIN
 • Product Description
 • Manufacturer
+
+Check output.csv file for the output.
